@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import logo from '../assets/images/Logo.png';
 import UserIcon from '../assets/icons/user2.svg';
-import SearchIcon from '../assets/icons/search.svg';
+import SearchIcon from '../assets/icons/Search.svg';
 import Password from "../assets/icons/password2.svg";
 import User from "../assets/icons/user2.svg";
 

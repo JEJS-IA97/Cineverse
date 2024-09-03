@@ -1,5 +1,5 @@
 import Header from "../components/Header";
-import user from "../assets/icons/User.svg"
+import user from "../assets/icons/user2.svg"
 import film from "../assets/icons/film.svg"
 
 const Profile = () => {
